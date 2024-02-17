@@ -35,14 +35,14 @@ export default function CollectiblesPage() {
           we&apos;re seeing a rising number of sophisticated asset tokenization use
           cases at large enterprises.{" "}
           <a
-            href="https://magic.link/contact"
+            href="https://dipass.io/en"
             rel="noreferrer"
             target="_blank"
             className="text-brand-purple underline"
           >
-            Contact us
-          </a>{"https://dipass.io/en"}
-          if you&apos;d like our contact for developing your Web3 projects.
+            Contact us 
+          </a>
+           <p>if you&apos;d like our contact for developing your Web3 projects.</p>
         </p>
       </section>
 
