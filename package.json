@@ -1,0 +1,34 @@
+{
+  "name": "tokenkey",
+  "version": "1.0.0",
+  "description": "TokenKey | Real World Assets",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "contract",
+    "frontend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trasgoverde/magic-tokenkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trasgoverde/magic-tokenkey/issues"
+  },
+  "homepage": "https://github.com/trasgoverde/magic-tokenkey#readme",
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "prettier-plugin-tailwindcss": "^0.2.4"
+  },
+  "dependencies": {
+    "class-variance-authority": "^0.7.0",
+    "radix-ui": "^1.0.1",
+    "tailwind-merge": "^2.2.1"
+  }
+}
