@@ -5,10 +5,10 @@ export default function AppNavigation({}) {
   return (
     <ul className={styles.linkArea}>
       <li>
-        <Link href={"/collectibles"}>Inmuebles</Link>
+        <Link href={"/collectibles"}>Inversiones</Link>
       </li>
       <li>
-        <Link href={"/holders"}>Inversiones</Link>
+        <Link href={"/holders"}>Inmuebles</Link>
       </li>
     </ul>
   );

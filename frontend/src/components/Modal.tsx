@@ -44,7 +44,7 @@ export default function Modal() {
     };
 
     fetchTokenURI();
-  }, [user?.tokenIdForModal]);
+  }, [contract.methods, setUser, user]);
 
   if (!showModal) return null;
 
